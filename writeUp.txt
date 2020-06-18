@@ -1,0 +1,7 @@
+Execution:
+1) Open the project folder in any IDE
+2) Run the server_gui.java file: This file generates a Graphical USer Interface for the server and makes it listen to incoming client requests
+3) Run client_gui.java, client2_gui.java , client3_gui.java individually in IDE.
+4) Enter your names in second textfield of the client gui and then the Server GUI window will show the users connected in realtime.
+5) Client GUI is used to execute simple calculation tasks until polled by the server. This is done in second textfield of the client GUI.
+6) Once we press Poll on the server GUI the server calculates the new value and informs the client about the new value.
